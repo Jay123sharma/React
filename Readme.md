@@ -5,4 +5,4 @@
 # git add .
 # git commit -m "first commit"
 # git push origin master 
-# git branch -M main // this will create the master branch to main
+# git branch -M main /// this will create the master branch to main
